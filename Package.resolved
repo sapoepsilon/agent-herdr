@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "agent-tui-protocol",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sapoepsilon/agent-tui-protocol",
+      "state" : {
+        "revision" : "c17ca27cdc54a311d310cb8da532734634026cbd",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
